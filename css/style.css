@@ -1,0 +1,29 @@
+/*Font*/
+@font-face{
+    font-family: "myFont";
+    src: url("../font/tarrget/tarrgetital.ttf");
+}
+/*Header/banner section of site*/
+header{
+    background: #000000;
+    color: #ffffff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #E50000 3px solid;
+    background-image: url(../img/webassets/glass.jpg); /*relative to css file*/
+    background-size: cover;
+}
+
+#banner{
+    width: 100%;
+}
+
+body{
+    background-image: url(../img/webassets/heihachibg.jpg); /*relative to css file*/
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#roster{
+    font-family: 'myFont';
+}
