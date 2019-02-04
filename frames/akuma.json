@@ -3,16 +3,6 @@
     "moves": {
         "special": [
             {
-                "Command": "Special Moves",
-                "Hit level": "",
-                "Damage": "",
-                "Start up frame": "",
-                "Block frame": "",
-                "Hit frame": "",
-                "Counter hit frame": "",
-                "Notes": ""
-            },
-            {
                 "Command": "in rage 1, 1, b or f+3, 2",
                 "Hit level": "m(Throw)",
                 "Damage": "55",
@@ -961,17 +951,8 @@
                 "Hit frame": "",
                 "Counter hit frame": "",
                 "Notes": ""
-            },
-            {
-                "Command": "Basic Moves",
-                "Hit level": "",
-                "Damage": "",
-                "Start up frame": "",
-                "Block frame": "",
-                "Hit frame": "",
-                "Counter hit frame": "",
-                "Notes": ""
-            },
+            }],
+        "basic": [
             {
                 "Command": "1",
                 "Hit level": "h",
@@ -1570,16 +1551,6 @@
                 "Block frame": "-11",
                 "Hit frame": "+3",
                 "Counter hit frame": "+3",
-                "Notes": ""
-            },
-            {
-                "Command": "Last updated 12.09.2018",
-                "Hit level": "",
-                "Damage": "",
-                "Start up frame": "",
-                "Block frame": "",
-                "Hit frame": "",
-                "Counter hit frame": "",
                 "Notes": ""
             }
         ]
