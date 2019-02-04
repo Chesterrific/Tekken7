@@ -5,10 +5,8 @@
 }
 /*Header/banner section of site*/
 header{
-    background: #000000;
     color: #ffffff;
     padding-top: 30px;
-    min-height: 70px;
     border-bottom: #E50000 3px solid;
     background-image: url(../img/webassets/glass.jpg); /*relative to css file*/
     background-size: cover;
@@ -22,8 +20,33 @@ body{
     background-image: url(../img/webassets/heihachibg.jpg); /*relative to css file*/
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 #roster{
+    margin-top: 50px;
     font-family: 'myFont';
+    font-size: 30px;
+    text-align: center;
+    -webkit-text-stroke: 2px #000000;
+}
+
+.character-portrait{
+    background-image: url("../img/webassets/gradient.jpg");
+    background-size: cover;
+    border: #E50000 3px solid;
+}
+
+.character-portrait:hover{
+    border-color: white;
+}
+
+.col-12, .col-md-3, .col-sm-4{
+    margin-bottom: 3%;
+    color: silver;
+}
+
+.character{
+    height: 100%;
+    width: 100%;
 }
