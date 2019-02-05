@@ -5,7 +5,7 @@ function getFrameData(name){
             var myData = JSON.parse(xhttp.responseText);
             
             //populateMoves(myData);
-            document.getElementById("test").innerHTML = myData.moves.special[1].Command;
+            //document.getElementById("test").innerHTML = myData.moves.basic[1].Command;
         }
     };
     xhttp.open("GET", "frames/" + name + ".json", true);
