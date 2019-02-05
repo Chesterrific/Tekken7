@@ -1,5 +1,5 @@
 {
-    "name": "akuma",
+    "name": "Akuma",
     "moves": {
         "special": [
             {
@@ -940,16 +940,6 @@
                 "Block frame": "+2~",
                 "Hit frame": "KND",
                 "Counter hit frame": "KND",
-                "Notes": ""
-            },
-            {
-                "Command": "",
-                "Hit level": "",
-                "Damage": "",
-                "Start up frame": "",
-                "Block frame": "",
-                "Hit frame": "",
-                "Counter hit frame": "",
                 "Notes": ""
             }],
         "basic": [
